@@ -6,7 +6,8 @@ Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 Você pode entrar em contato comigo 📫
 @fabianedelbem2008
-h
+![](linhttps://github.com/user-attachments/assets/632a16ed-22bd-4097-89f6-81f931af3318k)![image](https://github.com/user-attachments/assets/632a16ed-22bd-4097-89f6-81f931af3318)
+
 A palavra **Limao** deve ser destacada.
 > Escrito por Alura Start
 **Fabi271/Fabi271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
